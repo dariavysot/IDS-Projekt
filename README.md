@@ -1,4 +1,4 @@
-# IDS-Projekt
+# IDS-Database Systems
 Topic: Library 1
 
 This project consists of 4 parts:
